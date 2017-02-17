@@ -1,9 +1,6 @@
 # A-Little-Deep-Learning
 
 ## Table of Contents
-## Awesome-Papers
-* **[Convolutional Neural Networks](#convolutional-neural-networks)** 
-
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Blogs](#blogs)
