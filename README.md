@@ -72,7 +72,7 @@
 ## Papers
 
 #### CNN Architectures
-* ResNet [[Paper]](https://arxiv.org/abs/1512.03385)[[Code/Models]](https://github.com/KaimingHe/deep-residual-networks)
+* ResNet [[Paper]](https://arxiv.org/abs/1512.03385)[[Project]](https://github.com/KaimingHe/deep-residual-networks)
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, Deep Residual Learning for Image Recognition, CVPR, 2016.
 * VGG-Net [[Paper]](https://arxiv.org/pdf/1409.4842.pdf)[[Project]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
   * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
