@@ -1,4 +1,4 @@
-# A-Little-Deep-Learning
+# A-CNN-Roadmap
 
 A reading roadmap of CNN and Deep Learning basics.
 
