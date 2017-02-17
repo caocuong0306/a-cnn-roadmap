@@ -29,6 +29,14 @@
 #### Understanding CNN
 * A Beginner's Guide To Understanding Convolutional Neural Networks Series, by Adit Deshpande.
   * [Part 1](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/), [Part 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/), [Part 3](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+* [Understanding Convolution in Deep Learning](http://timdettmers.com/2015/03/26/convolution-deep-learning/) by Tim Dettmers.
+* [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah.
+* [Understanding Convolutional Neural Networks for NLP] (http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/) by Denny Britz (WildML).
+* Machine Learning is Fun! Series, by Adam Geitgey.
+  * [Part 1, The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+  * [Part 2, Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
+  * [Part 3, Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
+  
 
 #### Backpropagation
 * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.hkbx92e9f) by Andrej Karpathy.
