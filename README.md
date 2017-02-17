@@ -26,6 +26,12 @@
 * [Bay Area Deep Learning School](https://www.bayareadlschool.org/), Stanford 2016.
 * [Deep Learning Summer School](http://videolectures.net/deeplearning2016_montreal/), Montreal 2016.
 
+#### Tutorials
+* [VGG Convolutional Neural Networks Practical](https://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html) by Andrea Vedaldi and Andrew Zisserman.
+* [A Tutorial on Deep Learning](http://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/) by Quoc Le.
+  * [Part 1: Nonlinear Classifiers and The Backpropagation Algorithm](http://cs.stanford.edu/~quocle/tutorial1.pdf)
+  * [Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://cs.stanford.edu/~quocle/tutorial2.pdf)
+
 ### Blogs
 
 #### Understanding CNN
