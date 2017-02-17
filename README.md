@@ -5,6 +5,8 @@
 - [Courses](#courses)
 - [Blogs](#blogs)
   - [Understanding CNN](#understanding-cnn)
+  - [Backpropagation](#Backpropagation)
+  - [Deep Vision](#deep-vision)
 - [Papers](#papers)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
   - [Object Detection](#object-detection)
