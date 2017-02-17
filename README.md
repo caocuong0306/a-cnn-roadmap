@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Books](#books)
 - [Courses](#courses)
+- [Tutorials](#tutorials)
 - [Blogs](#blogs)
   - [Understanding CNN](#understanding-cnn)
   - [Backpropagation](#Backpropagation)
@@ -26,7 +27,7 @@
 * [Bay Area Deep Learning School](https://www.bayareadlschool.org/), Stanford 2016.
 * [Deep Learning Summer School](http://videolectures.net/deeplearning2016_montreal/), Montreal 2016.
 
-#### Tutorials
+### Tutorials
 * [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
 * [VGG Convolutional Neural Networks Practical](https://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html) by Andrea Vedaldi and Andrew Zisserman.
 * [A Tutorial on Deep Learning](http://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/) by Quoc Le.
