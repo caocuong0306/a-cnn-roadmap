@@ -27,7 +27,9 @@
 ### Blogs
 
 #### Understanding CNN
-
+* [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/) by Adit Deshpande.
+* [A Beginner's Guide To Understanding Convolutional Neural Networks Part 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/) by Adit Deshpande.
+* [The 9 Deep Learning Papers You Need To Know About (Understanding CNN Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html) by Adit Deshpande.
 
 ## Papers
 
