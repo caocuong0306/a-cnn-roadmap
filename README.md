@@ -1,5 +1,7 @@
 # A-Little-Deep-Learning
 
+A reading roadmap of CNN and Deep Learning basics.
+
 ## Table of Contents
 - [Books](#books)
 - [Courses](#courses)
