@@ -61,7 +61,6 @@ A reading roadmap of CNN and Deep Learning basics.
 #### Deep Learning
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/).
 * [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html) by Eugenio Culurciello.
-* Tombone's Series
 * [The major advancements in Deep Learning in 2016](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
 * Tombone's Series
   * [Deep down the rabbit hole: CVPR 2015 and beyond](http://www.computervisionblog.com/2015/06/deep-down-rabbit-hole-cvpr-2015-and.html)
