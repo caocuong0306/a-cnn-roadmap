@@ -33,13 +33,24 @@
 * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah.
 * [Understanding Convolutional Neural Networks for NLP] (http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/) by Denny Britz (WildML).
 * Machine Learning is Fun! Series, by Adam Geitgey.
-  * [Part 1, The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-  * [Part 2, Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
-  * [Part 3, Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
+  * [Part 1: The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+  * [Part 2: Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
+  * [Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
+  * [Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
   
+#### Deep Vision
+* [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/).
+* Tombone's Series
+  * [Deep down the rabbit hole: CVPR 2015 and beyond](http://www.computervisionblog.com/2015/06/deep-down-rabbit-hole-cvpr-2015-and.html)
+  * [ICCV 2015: Twenty one hottest research papers](http://www.computervisionblog.com/2015/12/iccv-2015-twenty-one-hottest-research.html)
+  * [From feature descriptors to deep learning: 20 years of computer vision](http://www.computervisionblog.com/2015/06/deep-down-rabbit-hole-cvpr-2015-and.html)
+  * [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
+  * [Deep Learning vs Machine Learning vs Pattern Recognition](http://www.computervisionblog.com/2015/03/deep-learning-vs-machine-learning-vs.html)
 
 #### Backpropagation
 * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.hkbx92e9f) by Andrej Karpathy.
+
+#### 
 
 ## Papers
 
