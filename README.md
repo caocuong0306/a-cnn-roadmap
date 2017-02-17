@@ -72,14 +72,16 @@
 ## Papers
 
 #### CNN Architectures
-* AlexNet [[Paper]](http://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf)
-  * Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
-* ZF Net [[Paper]](https://arxiv.org/pdf/1311.2901.pdf)
-  * Matthew Zeiler and Rob Fergus, Visualizing and Understanding Convolutional Networks, ECCV, 2014.
-* VGG-Net [[Paper]](https://arxiv.org/pdf/1409.4842.pdf)[[Project]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
-  * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
 * ResNet [[Paper]](https://arxiv.org/abs/1512.03385)[[Code/Models]](https://github.com/KaimingHe/deep-residual-networks)
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, Deep Residual Learning for Image Recognition, CVPR, 2016.
+* VGG-Net [[Paper]](https://arxiv.org/pdf/1409.4842.pdf)[[Project]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
+  * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
+* GoogLeNet [[Paper]](https://arxiv.org/pdf/1409.4842.pdf)
+  * Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, Going deeper with convolutions, CVPR, 2015.
+* ZF Net [[Paper]](https://arxiv.org/pdf/1311.2901.pdf)
+  * Matthew Zeiler and Rob Fergus, Visualizing and Understanding Convolutional Networks, ECCV, 2014.
+* AlexNet [[Paper]](http://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf)
+  * Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
 
 #### Object Detection
 
