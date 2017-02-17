@@ -60,13 +60,12 @@
 * [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html) by Eugenio Culurciello.
 * Tombone's Series
 * [The major advancements in Deep Learning in 2016](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
-
-#### Tombone's Series
-* [Deep down the rabbit hole: CVPR 2015 and beyond](http://www.computervisionblog.com/2015/06/deep-down-rabbit-hole-cvpr-2015-and.html)
-* [ICCV 2015: Twenty one hottest research papers](http://www.computervisionblog.com/2015/12/iccv-2015-twenty-one-hottest-research.html)
-* [From feature descriptors to deep learning: 20 years of computer vision](http://www.computervisionblog.com/2015/06/deep-down-rabbit-hole-cvpr-2015-and.html)
-* [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
-* [Deep Learning vs Machine Learning vs Pattern Recognition](http://www.computervisionblog.com/2015/03/deep-learning-vs-machine-learning-vs.html)
+* Tombone's Series
+  * [Deep down the rabbit hole: CVPR 2015 and beyond](http://www.computervisionblog.com/2015/06/deep-down-rabbit-hole-cvpr-2015-and.html)
+  * [ICCV 2015: Twenty one hottest research papers](http://www.computervisionblog.com/2015/12/iccv-2015-twenty-one-hottest-research.html)
+  * [From feature descriptors to deep learning: 20 years of computer vision](http://www.computervisionblog.com/2015/06/deep-down-rabbit-hole-cvpr-2015-and.html)
+  * [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
+  * [Deep Learning vs Machine Learning vs Pattern Recognition](http://www.computervisionblog.com/2015/03/deep-learning-vs-machine-learning-vs.html)
 
 #### 
 
