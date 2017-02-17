@@ -8,7 +8,7 @@
   - [Understanding CNN](#understanding-cnn)
   - [Understanding Backpropagation](#understanding-backpropagation)
   - [Deep Learning](#deep-learning)
-  - [Tombone's Series](#tombonesseries)
+  - [Tombone's Series](#tombone'sseries)
 - [Papers](#papers)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
   - [Object Detection](#object-detection)
