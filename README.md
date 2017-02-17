@@ -6,7 +6,7 @@
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
   - [Understanding CNN](#understanding-cnn)
-  - [Backpropagation](#Backpropagation)
+  - [Backpropagation](#backpropagation)
   - [Deep Vision](#deep-vision)
 - [Papers](#papers)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
