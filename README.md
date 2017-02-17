@@ -27,10 +27,12 @@
 * [Deep Learning Summer School](http://videolectures.net/deeplearning2016_montreal/), Montreal 2016.
 
 #### Tutorials
+* [UFLDL Tutorial](http://deeplearning.stanford.edu/tutorial/)
 * [VGG Convolutional Neural Networks Practical](https://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html) by Andrea Vedaldi and Andrew Zisserman.
 * [A Tutorial on Deep Learning](http://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/) by Quoc Le.
   * [Part 1: Nonlinear Classifiers and The Backpropagation Algorithm](http://cs.stanford.edu/~quocle/tutorial1.pdf)
   * [Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://cs.stanford.edu/~quocle/tutorial2.pdf)
+* [A Deep Learning Tutorial: From Perceptrons to Deep Networks](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks) by Ivan Vasilev.
 
 ### Blogs
 
