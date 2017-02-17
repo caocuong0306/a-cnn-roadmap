@@ -38,6 +38,9 @@
   * [Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
   * [Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
   
+#### Backpropagation
+* [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.hkbx92e9f) by Andrej Karpathy.
+  
 #### Deep Vision
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/).
 * Tombone's Series
@@ -46,9 +49,6 @@
   * [From feature descriptors to deep learning: 20 years of computer vision](http://www.computervisionblog.com/2015/06/deep-down-rabbit-hole-cvpr-2015-and.html)
   * [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
   * [Deep Learning vs Machine Learning vs Pattern Recognition](http://www.computervisionblog.com/2015/03/deep-learning-vs-machine-learning-vs.html)
-
-#### Backpropagation
-* [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.hkbx92e9f) by Andrej Karpathy.
 
 #### 
 
