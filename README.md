@@ -83,6 +83,13 @@
 * AlexNet [[Paper]](http://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf)
   * Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
 
+#### O
+* Batch normalization [[Paper]](https://arxiv.org/pdf/1502.03167.pdf)
+  * Sergey Ioffe and Christian Szegedy, Batch normalization: Accelerating deep network training by reducing internal covariate shift, ICML, 2015.
+* Dropout [[Paper]](https://arxiv.org/pdf/1502.03167.pdf)
+  * Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdinov, Dropout: A Simple Way to Prevent Neural Networks from Overfitting, JMLR, 2014.
+  
+
 #### Object Detection
 
 
