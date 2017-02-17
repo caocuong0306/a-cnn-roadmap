@@ -30,6 +30,9 @@
 * A Beginner's Guide To Understanding Convolutional Neural Networks Series, by Adit Deshpande.
   * [Part 1](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/), [Part 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/), [Part 3](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
+#### Backpropagation
+* [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.hkbx92e9f) by Andrej Karpathy.
+
 ## Papers
 
 #### Convolutional Neural Networks
