@@ -8,9 +8,8 @@
   - [Understanding CNN](#understanding-cnn)
   - [Understanding Backpropagation](#understanding-backpropagation)
   - [Deep Learning](#deep-learning)
-  - [Tombone's Series](#tombone'sseries)
 - [Papers](#papers)
-  - [Convolutional Neural Networks](#convolutional-neural-networks)
+  - [CNN Architectures](#cnn-architectures)
   - [Object Detection](#object-detection)
 
 ### Books
@@ -35,6 +34,7 @@
   * [Part 1: Nonlinear Classifiers and The Backpropagation Algorithm](http://cs.stanford.edu/~quocle/tutorial1.pdf)
   * [Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://cs.stanford.edu/~quocle/tutorial2.pdf)
 * [A Deep Learning Tutorial: From Perceptrons to Deep Networks](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks) by Ivan Vasilev.
+* [ICML 2016 Tutorial on Deep Residual Networks](http://kaiminghe.com/icml16tutorial/index.html) by Kaiming He.
 
 ### Blogs
 
@@ -71,7 +71,15 @@
 
 ## Papers
 
-#### Convolutional Neural Networks
+#### CNN Architectures
+* AlexNet [[Paper]](http://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf)
+  * Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
+* ZF Net [[Paper]](https://arxiv.org/pdf/1311.2901.pdf)
+  * Matthew Zeiler and Rob Fergus, Visualizing and Understanding Convolutional Networks, ECCV, 2014.
+* VGG-Net [[Paper]](https://arxiv.org/pdf/1409.4842.pdf)[[Project]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
+  * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
+* ResNet [[Paper]](https://arxiv.org/abs/1512.03385)[[Code/Models]](https://github.com/KaimingHe/deep-residual-networks)
+  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, Deep Residual Learning for Image Recognition, CVPR, 2016.
 
 #### Object Detection
 
